@@ -58,4 +58,7 @@ ramchandra.panthi@mofa.gov.np,
 jbgurung@mofa.gov.np,
 durga.bhandari@mofa.gov.np,
 dipakad@mofa.gov.np
+rita.dhital@mofa.gov.np, 
+sewa.lamsal@mofa.gov.np,
+spo@mofa.gov.np
 
