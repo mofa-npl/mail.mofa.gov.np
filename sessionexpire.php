@@ -27,7 +27,7 @@ $name=$userName;
 <h1 class="voice">MOFA EMAIL SERVER Login</h1>
 
 <div id="layout-content" class="selected no-navbar" role="main">
-	<img src="./lifelarombapannanum/logo.svg" id="logo" alt="Logo">
+	<img src="./lifelarombapannanum/logo.png" id="logo" alt="Logo">
 	
 	<div id="login-form" name="login-form" class="propform" >
 	<span style='color:red' id='error-class'></span>
